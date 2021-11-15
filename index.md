@@ -1,5 +1,7 @@
 ## Pluto
 
+![image 1](images/Pluto Picture.jpg)
+
 Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. 
 
 It was the first and the largest Kuiper belt object to be discovered. 
