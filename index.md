@@ -12,6 +12,8 @@ The New Horizons spacecraft performed a flyby of Pluto on July 14, 2015, becomin
 
 During its brief flyby, New Horizons made detailed measurements and observations of Pluto and its moons. 
 
+![image 2](images\Pluto GIF.gif)
+
 In September 2016, astronomers announced that the reddish-brown cap of the north pole of Charon is composed of tholins, 
 organic macromolecules that may be ingredients for the emergence of life, and produced from methane, 
 nitrogen and other gases released from the atmosphere of Pluto and transferred 19,000 km (12,000 mi) to the orbiting moon.
@@ -20,7 +22,7 @@ Pluto's diameter is 2376.6±3.2 km and its mass is (1.303±0.003)×1022 kg, 17.7
 Its surface area is 1.779×107 km2, or roughly the same surface area as Russia. 
 Its surface gravity is 0.063 g (compared to 1 g for Earth and 0.17 g for the Moon).
 
-
+![image 3](images\Pluto Orbit.png)
 
 The Pluto Files: The Rise and Fall of America's Favorite Planet is a book written by the astrophysicist and Hayden Planetarium director Neil deGrasse Tyson. 
 
