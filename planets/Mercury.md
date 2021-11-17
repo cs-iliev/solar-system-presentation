@@ -1,6 +1,6 @@
 ---
 name: Mercury
 abbrev: Mer
-coord: "52,249,42,253"
+coord: "2,3"
 ---
-Mercury is onof the planets
+# Mercury is one of the planets
