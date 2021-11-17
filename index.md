@@ -1,4 +1,6 @@
-![title image](images\Solar system\Picture 3.png)
+<!--  ![title image](images\Solar system\Picture 3.png) -->
+
+{% include foobar.html %}
 
 # 10 facts about the Solar System
 
