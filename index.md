@@ -1,8 +1,8 @@
 <!--  ![title image](images\Solar system\Picture 3.png) -->
 
-{% include foobar.html %}
-
 # 10 facts about the Solar System
+
+{% include foobar.html %}
 
 ## 1: Solar System is 4.6 Billion Years Old
 
