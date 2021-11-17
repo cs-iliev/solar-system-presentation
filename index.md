@@ -1,4 +1,4 @@
-![title image](images\Solar system\Picture 3.jpg)
+![title image](images\Solar system\Picture 3.png)
 
 # 10 facts about the Solar System
 
@@ -32,7 +32,7 @@ In general, the closer the planet is to the Sun the hotter is its average temper
 
 The closer the planet is to the Sun, the quicker is its annual orbit around our star. Whereas the Earth takes one year to revolve around the Sun, for instance, Mercury would complete its orbit in 88 days, while distant Neptune would complete its annual trek in 165 years.
 
-![img 2](images\Solar system\Picture 2.png)
+![img 2](images\Solar system\Picture 2.jpg)
 
 ## 8: Comets We See Originate From Within Our Solar System
 
