@@ -1,6 +1,6 @@
 ---
 name: Mercury
 abbrev: Mer
-coord: "1,1,2,3"
+coord: "0,0,100"
 ---
 # Mercury is one of the planets
