@@ -1,4 +1,4 @@
-!(title image)[images\Solar system\Picture 3.jpg]
+![title image](images\Solar system\Picture 3.jpg)
 
 # 10 facts about the Solar System
 
@@ -14,7 +14,7 @@ The Earth is located 93 million miles (150 million kms) away from the Sun, a dis
 
 The size of a solar system is determined by how far its sun’s gravity overpowers other objects in the region, which in the case of the Sun extends to the Oort Cloud, a reservoir of cometary material located between 5,000 and 50,000 AU away. That boundary would give the solar system a diameter of around 2 light-years across.
 
-!(img 1)[images\Solar system\Picture 1.jpg]
+![img 1](images\Solar system\Picture 1.jpg)
 
 ## 4: Planets Are Made of Rock or Gas
 
@@ -32,8 +32,7 @@ In general, the closer the planet is to the Sun the hotter is its average temper
 
 The closer the planet is to the Sun, the quicker is its annual orbit around our star. Whereas the Earth takes one year to revolve around the Sun, for instance, Mercury would complete its orbit in 88 days, while distant Neptune would complete its annual trek in 165 years.
 
-!(img 2)[images\Solar system\Picture 2.png]
-
+![img 2](images\Solar system\Picture 2.png)
 
 ## 8: Comets We See Originate From Within Our Solar System
 
