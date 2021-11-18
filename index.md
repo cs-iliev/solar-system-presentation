@@ -45,3 +45,22 @@ Outside of our own solar system, the nearest star to Earth is a red dwarf star c
 ## 10: There Are 100 Billion Solar Systems In Milky Way Galaxy
 
 In ancient times, the solar system was considered to represent the entire universe and the planets were believed to be ‘wandering stars‘ orbiting the Earth along with the Sun and stars. With the advent of the scientific revolution beginning in 1543, the Earth was later included in the list of planets but until recently astronomers still knew of only one solar system in the universe. Within the last 17 years or so, however, over 4,000 planets orbiting distant stars have been found and scientists now estimate that there may be as many as 100 billion solar systems in our own Milky Way galaxy, alone.
+
+# Mercury
+
+![title image](images\planets\Mercury\Mercury_with_magnetic_field.png)
+
+Mercury is the smallest planet in the Solar System and the closest to the Sun.
+
+Having almost no atmosphere to retain heat,
+it has surface temperatures that vary diurnally more than on any other planet in the Solar System, 
+ranging from 100 K (−173 °C; −280 °F) at night to 700 K (427 °C; 800 °F) during the day across the equatorial regions.
+
+Mercury is one of four terrestrial planets in the Solar System, and is a rocky body like Earth. 
+It is the smallest planet in the Solar System, with an equatorial radius of 2,439.7 kilometres (1,516.0 mi).
+Mercury is also smaller—albeit more massive—than the largest natural satellites in the Solar System, Ganymede and Titan. 
+Mercury consists of approximately 70% metallic and 30% silicate material.
+
+Mercury distance from earth is 210.42 million km
+
+LINK FOR VIDEO  -- https://www.youtube.com/watch?v=0KBjnNuhRHs
