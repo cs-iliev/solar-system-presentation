@@ -4,6 +4,8 @@
 
 ![title image](images\planets\Mercury\Mercury_with_magnetic_field.png)
 
+> Mercury with magnetic field
+
 Mercury is the smallest planet in the Solar System and the closest to the Sun.
 
 Having almost no atmosphere to retain heat,
@@ -23,6 +25,8 @@ Mercury distance from earth is 210.42 million km
 
 ![title image](images\planets\Venus\Venus\InteriorOfVenus.png)
 
+> Interior Of Venus
+
 Venus is the second planet from the Sun. It is named after the Roman goddess of love and beauty. 
 As the brightest natural object in Earth's night sky after the Moon,
 Venus can cast shadows and can be, on rare occasions, visible to the naked eye in broad daylight.
@@ -41,6 +45,8 @@ Venus distance from earth is 77.876 million km
 ## Earth
 
 ![title image](images\planets\Earth\Earth\The_Earth_seen_from_Apollo_17.png)
+
+> The Earth seen from Apollo 17
 
 Earth is the third planet from the Sun and the only astronomical object known to harbour and support life.
 29.2% of Earth's surface is land consisting of continents and islands. The remaining 70.8% is covered with water,
@@ -67,6 +73,8 @@ Over 99% of the crust is composed of 11 oxides, principally silica, alumina, iro
 
 ![title image](images\planets\Mars\Mars\Mars.jpg)
 
+> Mars from a traveling spaceship
+
 Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the "Red Planet".[17][18] The latter refers to the effect of the iron oxide prevalent on Mars's surface, which gives it a reddish appearance (as shown), that is distinctive among the astronomical bodies visible to the naked eye.[19] Mars is a terrestrial planet with a thin atmosphere, with surface features reminiscent of the impact craters of the Moon and the valleys, deserts and polar ice caps of Earth.
 
 The days and seasons are comparable to those of Earth, because the rotational period as well as the tilt of the rotational axis relative to the ecliptic plane are similar. Mars is the site of Olympus Mons, the largest volcano and highest known mountain on any planet in the Solar System, and of Valles Marineris, one of the largest canyons in the Solar System. The smooth Borealis basin in the Northern Hemisphere covers 40% of the planet and may be a giant impact feature. Mars has two moons, Phobos and Deimos, which are small and irregularly shaped. These may be captured asteroids, similar to 5261 Eureka, a Mars trojan.
@@ -76,6 +84,8 @@ The days and seasons are comparable to those of Earth, because the rotational pe
 ## Jupyter
 
 ![title image](images\planets\Jupyter\Jupiter\Jupiter.jpg)
+
+> Jupiter from the Hubble Telescope from 2005
 
 Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.
 
@@ -88,6 +98,8 @@ Surrounding Jupiter is a faint planetary ring system and a powerful magnetospher
 ## Saturn
 
 ![title image](images\planets\Saturn\Saturn.jpg)
+
+> Saturn from the Hubble Telescope 2008
 
 Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth. It only has one-eighth the average density of Earth; however, with its larger volume, Saturn is over 95 times more massive. Saturn is named after the Roman god of wealth and agriculture. Its astronomical symbol (♄) has been traced back to the Greek Oxyrhynchus Papyri, where it can be seen to be a Greek kappa-rho with a cross-bar, as an abbreviation for Κρονος (Cronos), the Greek name for the planet. It later came to look like a lower-case Greek eta, with the cross added at the top in the 16th century.
 
@@ -102,6 +114,8 @@ The planet's most famous feature is its prominent ring system, which is composed
 ## Uranus
 
 ![title image](images\planets\Uranus\Uranus\Photograph of Uranus in true colour.jpg)
+
+> Photograph of Uranus in true colour
 
 Uranus is the seventh planet from the Sun. 
 Its name is a reference to the Greek god of the sky, Uranus, who, according to Greek mythology, was the great-grandfather of Ares (Mars),
@@ -121,6 +135,8 @@ layered cloud structure with water thought to make up the lowest clouds and meth
 ## Neptune
 
 ![title image](images\planets\Neptune\Neptune\Photograph taken by NASA's Voyager 2 in 1989.jpg)
+
+> Photograph taken by NASA's Voyager 2 in 1989
 
 Neptune is the eighth and farthest-known Solar planet from the Sun. In the Solar System, it is the fourth-largest planet by diameter,
 the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth, slightly more massive than its near-twin Uranus.
@@ -144,6 +160,8 @@ Scientists also believe that this kind of diamond rain occurs on Jupiter, Saturn
 ## Pluto
 
 ![title image](images\planets\Pluto\Pluto\Northern hemisphere of Pluto in true color, taken by NASA's New Horizons probe in 2015.jpg)
+
+> Northern hemisphere of Pluto in true color, taken by NASA's New Horizons probe in 2015
 
 Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. 
 
