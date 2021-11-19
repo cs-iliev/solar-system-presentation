@@ -117,3 +117,26 @@ It has the coldest planetary atmosphere in the Solar System, with a minimum temp
 layered cloud structure with water thought to make up the lowest clouds and methane the uppermost layer of clouds.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m4NXbFOiOGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Neptune
+
+![title image](images\planets\Neptune\Neptune\Photograph taken by NASA's Voyager 2 in 1989.jpg)
+
+Neptune is the eighth and farthest-known Solar planet from the Sun. In the Solar System, it is the fourth-largest planet by diameter,
+the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth, slightly more massive than its near-twin Uranus.
+Neptune is denser and physically smaller than Uranus because its greater mass causes more gravitational compression of its atmosphere.
+The planet orbits the Sun once every 164.8 years at an average distance of 30.1 AU (4.5 billion km; 2.8 billion mi).
+It is named after the Roman god of the sea and has the astronomical symbol ♆, a stylised version of the god Neptune's trident or the Greek letter psi.
+
+
+Neptune's internal structure resembles that of Uranus.
+Its atmosphere forms about 5 to 10% of its mass and extends perhaps 10 to 20% of the way towards the core, where it reaches pressures of about 10 GPa,
+or about 100,000 times that of Earth's atmosphere.
+Increasing concentrations of methane, ammonia and water are found in the lower regions of the atmosphere.
+
+The mantle may consist of a layer of ionic water in which the water molecules break down into a soup of hydrogen and oxygen ions,
+and deeper down superionic water in which the oxygen crystallises but the hydrogen ions float around freely within the oxygen lattice.
+At a depth of 7,000 km, the conditions may be such that methane decomposes into diamond crystals that rain downwards like hailstones.
+Scientists also believe that this kind of diamond rain occurs on Jupiter, Saturn, and Uranus.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NStn7zZKXfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
