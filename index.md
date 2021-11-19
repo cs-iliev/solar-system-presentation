@@ -98,3 +98,22 @@ Saturn's interior is most likely composed of a core of iron–nickel and rock (s
 The planet's most famous feature is its prominent ring system, which is composed mostly of ice particles, with a smaller amount of rocky debris and dust. At least 83 moons are known to orbit Saturn, of which 53 are officially named; this does not include the hundreds of moonlets in its rings. Titan, Saturn's largest moon and the second largest in the Solar System, is larger than the planet Mercury, although less massive, and is the only moon in the Solar System to have a substantial atmosphere.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tyMbktsAScE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Uranus
+
+![title image](images\planets\Uranus\Uranus\Photograph of Uranus in true colour \(by Voyager 2 in 1986\).jpg)
+
+Uranus is the seventh planet from the Sun. 
+Its name is a reference to the Greek god of the sky, Uranus, who, according to Greek mythology, was the great-grandfather of Ares (Mars),
+grandfather of Zeus (Jupiter) and father of Cronus (Saturn).
+It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System. Uranus is similar in composition to Neptune,
+and both have bulk chemical compositions which differ from that of the larger gas giants Jupiter and Saturn.
+
+
+Uranus's atmosphere is similar to Jupiter's and Saturn's in its primary composition of hydrogen and helium,
+but it contains more "ices" such as water, ammonia, and methane, along with traces of other hydrocarbons.
+
+It has the coldest planetary atmosphere in the Solar System, with a minimum temperature of 49 K (−224 °C; −371 °F), and has a complex, 
+layered cloud structure with water thought to make up the lowest clouds and methane the uppermost layer of clouds.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m4NXbFOiOGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
