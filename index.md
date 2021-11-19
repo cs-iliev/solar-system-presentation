@@ -176,3 +176,7 @@ The book explains in full detail the journey of Pluto's life from its days as Pl
 The book appeared on the extended hardcover nonfiction bestseller list in The New York Times in February 2009.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4NY63IYN-UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* * *
+ 
+© 2021 [Receipt Eaters](https://pipeline.foundation/)
