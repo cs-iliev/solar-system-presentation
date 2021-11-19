@@ -101,7 +101,7 @@ The planet's most famous feature is its prominent ring system, which is composed
 
 ## Uranus
 
-![title image](images\planets\Uranus\Uranus\Photograph of Uranus in true colour \(by Voyager 2 in 1986\).jpg)
+![title image](images\planets\Uranus\Uranus\Photograph of Uranus in true colour.jpg)
 
 Uranus is the seventh planet from the Sun. 
 Its name is a reference to the Greek god of the sky, Uranus, who, according to Greek mythology, was the great-grandfather of Ares (Mars),
